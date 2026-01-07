@@ -8,7 +8,7 @@
     <a href="https://go.warp.dev/awesome-python" target="_blank">Warp, built for coding with multiple AI agents.</a>
 </div>
 <br>
-
+![](https://github.com/lidabao0918-code/awesome-python/blob/output/github-contribution-grid-snake.svg)
 # Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 An opinionated list of awesome Python frameworks, libraries, software and resources.
